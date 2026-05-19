@@ -1,4 +1,4 @@
-﻿# OverclockHUB
+# OverclockHUB
 
 **Diploma In Information Technology - Web Application Development (TSE3623) - Final Project - Kolej Poly-Tech MARA (KPTM)**
 
@@ -35,7 +35,7 @@ List of software needed to run the project locally:
 1. **Clone the repository:**
    ```bash
    git clone <repo-url>
-   cd WAD-FINAL-PROJECT
+   cd OverclockHUB
    ```
 
 2. **Install PHP and Node dependencies:**
