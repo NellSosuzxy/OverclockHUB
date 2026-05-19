@@ -4,7 +4,7 @@
 
 OverclockHUB is an e-commerce web application built using the Laravel framework. It provides a comprehensive platform for managing computing products, handling customer carts and orders, and providing user support.
 
-## 🚀 Features
+##  Features
 
 -   **User Authentication & Authorization**: Secure login, registration, and role-based access control (Admin & Customer).
 -   **Product Catalog**: Browse PC components and accessories with categories management.
@@ -13,14 +13,14 @@ OverclockHUB is an e-commerce web application built using the Laravel framework.
 -   **Voucher/Discount System**: Apply promotional codes during checkout.
 -   **Support Ticket System**: Direct support communication channel for users.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 -   **Backend**: Laravel 12 (PHP ^8.2)
 -   **Database**: MySQL / SQLite (configured via `.env`)
 -   **Frontend**: Laravel UI / Blade Templates, Vite for asset building
 -   **Containerization**: Docker support included (`docker-compose.yml`)
 
-## 📋 Prerequisites
+##  Prerequisites
 
 List of software needed to run the project locally:
 -   PHP 8.2+
@@ -28,7 +28,7 @@ List of software needed to run the project locally:
 -   Node.js & npm (for frontend assets)
 -   Docker & Docker Compose (Optional, for containerized environment)
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Local Setup
 
@@ -72,7 +72,7 @@ docker-compose up -d --build
 ```
 Access the web application at `http://localhost`.
 
-## 👥 Authors
+##  Authors
 -   **Course:** Web Application Development (TSE3623)
 -   OverclockHUB Final Project
 
